@@ -1,3 +1,3 @@
 # myproj-demo
 This is my first git repository<br>
-<b>this is kavana</b>
+<b>this is kavana navada</b>
